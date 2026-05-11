@@ -32,6 +32,9 @@ cd newspulse && python3 -m streamlit run app.py
 
 ## Team
 - Dana Ghassan
+- Sema Raslan
+- Yomna Kassem
+  
 
 ## Course
 SE446 — Big Data Engineering, Spring 2026
